@@ -1,5 +1,0 @@
-﻿  GameController.cpp
-d:\users\veemo\documents\game design\3dgame\3dgame\3dgame\gamecontroller.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-d:\users\veemo\documents\game design\3dgame\3dgame\3dgame\gamecontroller.cpp(59): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
-  3DGame.vcxproj -> D:\Users\veemo\Documents\Game Design\3DGame\3DGame\Debug\3DGame.exe
-  3DGame.vcxproj -> D:\Users\veemo\Documents\Game Design\3DGame\3DGame\Debug\3DGame.pdb (Partial PDB)
