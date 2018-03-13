@@ -35,5 +35,22 @@
     <ClInclude Include="GameController.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="LevelController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shader.vxs">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="shader.frs">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
